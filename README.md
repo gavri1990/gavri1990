@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Giorgos.
 
-I'm an aspiring Android developer focused on mastering Kotlin, Jetpack Compose, and modern Android app development. With a background in Java-based Android projects during my university years (including my thesis) and 4 years of professional experience as an ERP developer, delivering custom solutions in demanding enterprise environments, I am now pivoting my career toward mobile development. My journey from philology to software engineering has sharpened both my analytical and problem-solving skills, and I'm committed to building intuitive, high-quality Android applications while actively pursuing opportunities in the field.
+I'm an aspiring Android developer focused on mastering Kotlin, Jetpack Compose, and modern Android app development. With a background in Java-based Android projects during my university years (including my thesis) and 4 years of professional experience as an ERP developer, delivering custom solutions in demanding enterprise environments, I am now pivoting my career toward mobile development. My journey from philology—a discipline centered on deep analysis and structured reasoning— to software engineering has sharpened both my analytical and problem-solving skills, and I'm committed to building intuitive, high-quality Android applications while actively pursuing opportunities in the field.
 
 
 ## 🚀 What I'm Working On 
