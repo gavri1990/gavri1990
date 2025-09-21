@@ -17,7 +17,7 @@ I'm an aspiring Android developer focused on mastering Kotlin, Jetpack Compose, 
 
 ## 📂 Featured Projects 
 - [Thesis - Sentiment analysis during online learning on Android application and sending to a RESTful Web Service (Private repository—contact for access)] – Android app that measures student engagement in online classes through real-time emotion recognition.
-- [ShoppingList](https://github.com/gavri1990/ShoppingListDemoApp) – An editable shopping list demo application
+- [ShoppingListDemoApp](https://github.com/gavri1990/ShoppingListDemoApp) – An editable shopping list demo application
 
 
 ## 📫 Connect with Me 
