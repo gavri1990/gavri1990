@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Giorgos.
 
-Backend developer focused on building scalable APIs and system integrations. Passionate about clean code, problem-solving, and continuous learning.
+ERP backend developer with hands‑on experience in C#, SQL, and custom JavaScript web services for SoftOne integrations. I’m recognized for my attention to detail and consistently clean, reliable code. Now expanding my backend engineering skills with a focus on C# and scalable API design.
 
 
 ## 🔧 Currently Working On
