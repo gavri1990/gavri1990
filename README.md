@@ -6,7 +6,7 @@ ERP backend developer with hands‑on experience in C#, SQL, and custom JavaScri
 ## 🔧 Currently Working On
 - Backend APIs with .NET Core & C#
 - Cloud deployment with Docker & Azure
-- System integration patterns
+- Modern web application architectures 
 - Database optimization with SQL Server
 
 
