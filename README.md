@@ -21,9 +21,9 @@ ERP backend developer with hands‑on experience in C#, SQL, and custom JavaScri
 
 
 ## 📂 Featured Projects 
-Multi-Tenant Inventory API (In Progress) – Modern REST API with .NET Core, demonstrating cloud-native architecture, JWT auth, Docker deployment, and Azure integration.
+Multi-Tenant Inventory API (In Progress) – Modern REST API with .NET Core, demonstrating cloud-native architecture, JWT auth, Docker deployment, and Azure hosting.
 
-Sentiment Analysis Platform (Master's Thesis - 10/10) - Full-stack app: Spring Boot backend + PostgreSQL + Android frontend + TensorFlow Lite integration
+Sentiment Analysis Platform (Master's Thesis – 10/10) – Full-stack app: Spring Boot backend, PostgreSQL, Android frontend, TensorFlow Lite integration
 
 
 
